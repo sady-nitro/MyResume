@@ -42,6 +42,7 @@ sady_nitroの学歴、職歴、業績についてまとめたレジュメです�
     - 外部パートナーとの調整や管理
     - Azure DevOpsを利用したタスクトラッキングやリリース管理
   - フロントエンド開発
+    - 主にAngularJS + TypeScript部分、SaSSはあまり触っていない
   - バックエンド開発
     - 主にアプリケーションのフロントとバックエンドの実装も担当しつつ、ビジネスロジック層のSQL(ストアド)プロシージャ実装なども対応
   - インフラ構築・管理
@@ -133,13 +134,10 @@ sady_nitroの学歴、職歴、業績についてまとめたレジュメです�
 ## アウトプット
 
 - ブログ
-  - はてなブログ
-    - https://sadynitro.hatenablog.jp/
-  - DevelopersIO
-    - https://dev.classmethod.jp/author/sadamatsu-masashi/
+  - [はてなブログ](https://sadynitro.hatenablog.jp/)
+  - [DevelopersIO](https://dev.classmethod.jp/author/sadamatsu-masashi/)
 - コミュニティ
-  - オカヤマコンピュータサイエンスラボ
-    - https://okayama-cs-lab.azurewebsites.net/
+  - [オカヤマコンピュータサイエンスラボ](https://okayama-cs-lab.azurewebsites.net/)
 
 ## 資格
 
