@@ -141,6 +141,11 @@ sady_nitroの学歴、職歴、業績についてまとめたレジュメです�
 
 ## 資格
 
+- Ruby技術者認定試験Silver
+
+- IPA試験
+  - 基本情報技術者試験
+
 - AWS認定資格 (2024年10月現在での有効資格のみ掲載)
   - AWS Certified Cloud Practitioner
   - AWS Certified Solutions Architect - Associate
